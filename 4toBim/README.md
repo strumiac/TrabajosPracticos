@@ -25,9 +25,9 @@ Este repositorio contiene la resolución (notebooks) a los desafíos semanales p
 <img src="https://github.com/strumiac/TrabajosPracticos/blob/main/4toBim/fig/5-sentimental.png" width="80" align="left">
 <aside>Se empleó el dataset clothing ecommerce reviews para entrenar un modelo que utilice las críticas de los compradores de ropa y determine la evaluación del comprador y su crítica (de 1 a 5 estrellas). Se realizó un EDA del dataset y preprocesamiento. Primero se entrenaron los embeddings propios y una arquitectura LSTM. Luego se aplicó transfer learning con embeddings de Fasttext. Por último, se entrenó el modelo haciendo un balance de clases (class weight).</aside><br>
 
-### [Desafío 6](NLP/4d_prediccion_palabra.ipynb) 
+### [Desafío 6](NLP/6_bot_qa.ipynb) 
 <img src="https://github.com/strumiac/TrabajosPracticos/blob/main/4toBim/fig/6-bot_conversacional.png" width="80" align="left">
-<aside>Tomar un ejemplo de los bots utilizados y construir el propio.</aside><br><br><br><br>
+<aside>Se construyó un BOT que responda a la preguntas del usuario. Debido a que el dataset estaba en un formato json un poco complejo, los profesores facilitaron un script para levantar el dataset. Se siguieron algunas recommendaciones de los profesores para armar y entrenar el modelo. Cuando se ensayó el BOT, todas las respuestas arrojadas guardan una coherencia aceptable y varias son correctas.</aside><br><br><br><br>
 
 ## Alumno
 :pencil: Ing. Carlos Strumia
