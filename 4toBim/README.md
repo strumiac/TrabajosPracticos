@@ -27,10 +27,14 @@ Este repositorio contiene la resolución (notebooks) a los desafíos semanales p
 
 ### [Desafío 6](NLP/6_bot_qa.ipynb) 
 <img src="https://github.com/strumiac/TrabajosPracticos/blob/main/4toBim/fig/6-bot_conversacional.png" width="80" align="left">
-<aside>Se construyó un BOT que responda a la preguntas del usuario. Debido a que el dataset estaba en un formato json un poco complejo, los profesores facilitaron un script para levantar el dataset. Se siguieron algunas recommendaciones de los profesores para armar y entrenar el modelo. Cuando se ensayó el BOT, todas las respuestas arrojadas guardan una coherencia aceptable y varias son correctas.</aside><br><br><br><br>
+<aside>Se construyó un BOT que responda a la preguntas del usuario. Debido a que el dataset estaba en un formato json un poco complejo, los profesores facilitaron un script para levantar el dataset. Se siguieron algunas recomendaciones de los profesores para armar y entrenar el modelo. Cuando se ensayó el BOT, todas las respuestas arrojadas guardaron una coherencia aceptable y varias fueron correctas.</aside><br><br>
 
 ## Alumno
-:pencil: Ing. Carlos Strumia
+:pencil: Ing. Carlos Strumia (mail: strumiac@gmail.com)
+
+Soy *Ingeniero Electromecánico con Orientación en Automatización Industrial* recibido de la Facultad de Ingeniería de la UNLPam/ Instituto Balseiro. Trabajo en el Departamento de Seguridad Nuclear de la Central Nuclear Atucha I y II.
+
+Actualmente me encuentro cursando las últimas asignaturas de la Carrera de Especialización en Inteligencia Artificial (CEIA - FIUBA).
 
 ## Profesores
 :octocat: Msc. Rodrigo Cardenas Szigety<br>
