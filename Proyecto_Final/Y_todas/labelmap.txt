@@ -1,0 +1,4 @@
+# label:color_rgb:parts:actions
+asentado:255,0,0::
+background:0,0,0::
+no_asentado:0,0,255::
